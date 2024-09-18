@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "aa5154344a116298",
+        "id": "4f6eb4d65b781dc3",
         "type": "tabs",
         "children": [
           {
-            "id": "c369811be835666c",
+            "id": "902cdd0e489001c5",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "4d776e4ad5a0e648",
@@ -128,16 +128,26 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "aec6ef8fbdf0aff9",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-kanban:创建新看板": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -147,8 +157,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c369811be835666c",
+  "active": "902cdd0e489001c5",
   "lastOpenFiles": [
+    "分析/App/proguard-rules.pro.md",
+    "系统文件.md",
+    "分析/App/功能.md",
+    "gradle.properties.md",
+    "分析/App/系统自带.md",
+    "分析/App/AndroidTest.md",
+    "分析/App/Java.md",
+    "分析/App/res.md",
+    "分析/App/AndroidManifest.xml.md",
+    "分析/App/test.md",
+    "分析/App/build.gradle.md",
+    "分析/App",
+    "版本控制.md",
+    "分析/App",
+    "分析",
     "欢迎.md"
   ]
 }
